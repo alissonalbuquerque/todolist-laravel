@@ -20,7 +20,8 @@ Documentos:
 - [ ] : Diagrama Entidade Relacional
 - [ ] : Manual de Implantação
 
-
 Ferramentas:
+- [ ] : JQuery
+- [ ] : Bootstrap
 - [ ] : Banco de Dados
 - [ ] : Template Engine (Blade)
