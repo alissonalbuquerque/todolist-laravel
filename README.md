@@ -24,6 +24,8 @@ Documentos:
 - [ ] : Design de Interface
 - [ ] : Diagrama de Classes
 - [ ] : Diagrama Entidade Relacional
+- [ ] : Manual de Implantação
+
 
 Ferramentas:
 - [ ] : Banco de Dados
