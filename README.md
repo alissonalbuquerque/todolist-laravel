@@ -12,6 +12,7 @@ Funcionalidades:
 - [ ] : Logar com usuários diferentes
 - [ ] : Arquivar tarefas
 - [ ] : Crud de tarefas (criar, atualizar, remover e ler)
+- [ ] : Site Responsivo
 
 Documentos:
 - [ ] : Design de Interface
