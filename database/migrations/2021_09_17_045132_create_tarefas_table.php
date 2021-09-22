@@ -15,6 +15,11 @@ class CreateTarefasTable extends Migration
     {
         Schema::create('tarefas', function (Blueprint $table) {
             $table->id();
+            $table->string('titulo');
+            $table->string('descricao');
+            $table->boolean('concluida');
+            $table->boolean('arquivada');
+            $table->foreignId('usuario_id')->references('id')->on('usuarios');
             $table->timestamps();
         });
     }
